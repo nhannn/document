@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<?asciidoc-toc?>
+<?asciidoc-numbered?>
+
+<book lang="en">
+<bookinfo>
+    <title>The Book Title</title>
+</bookinfo>
+<preface>
+<title></title>
+<simpara>:iconsdir:./resource/image/</simpara>
+</preface>
+<chapter id="_the_first_chapter">
+<title>The first chapter</title>
+<simpara>Nec vitae mus fringilla eu vel pede sed pellentesque. Nascetur fugiat
+nobis. Eu felis id mauris sollicitudin ut. Sem volutpat feugiat.
+Ornare convallis urna vitae.</simpara>
+<simpara>Nec mauris sed aliquam nam mauris dolor lorem imperdiet.</simpara>
+<simpara>Nec mauris sed aliquam nam mauris dolor lorem imperdiet.</simpara>
+<variablelist><title>Label</title>
+<varlistentry>
+<term>
+Term 1
+</term>
+<listitem>
+<simpara>
+                abc
+</simpara>
+</listitem>
+</varlistentry>
+<varlistentry>
+<term>
+Term 2
+</term>
+<listitem>
+<simpara>
+                cde
+</simpara>
+</listitem>
+</varlistentry>
+</variablelist>
+<orderedlist numeration="arabic"><title>List</title>
+<listitem>
+<simpara>
+<emphasis role="strong">List 1</emphasis>
+</simpara>
+<orderedlist numeration="loweralpha">
+<listitem>
+<simpara>
+Part a
+</simpara>
+</listitem>
+</orderedlist>
+</listitem>
+</orderedlist>
+<simpara>An exmaple of iamge load. An exmaple of iamge load.</simpara>
+<simpara>An exmaple of iamge load.</simpara>
+<orderedlist numeration="loweralpha">
+<listitem>
+<simpara>
+Part b
+</simpara>
+</listitem>
+</orderedlist>
+<simpara>An exmaple of iamge load.</simpara>
+<figure id="note_img"><title>Note</title>
+<mediaobject>
+  <imageobject>
+  <imagedata fileref="resource/image/note.png"/>
+  </imageobject>
+  <textobject><phrase>Note</phrase></textobject>
+</mediaobject>
+</figure>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>
+<emphasis role="strong">List 2</emphasis>
+</simpara>
+<orderedlist numeration="loweralpha">
+<listitem>
+<simpara>
+Part b
+</simpara>
+</listitem>
+</orderedlist>
+</listitem>
+</orderedlist>
+<section id="_the_part1_chapter">
+<title>The part1 chapter</title>
+<simpara>An exmaple of iamge load. An exmaple of iamge load, see <xref linkend="note_img"/>.</simpara>
+<section id="_the_part1_chapter_2">
+<title>The part1 chapter</title>
+<simpara>Nec mauris sed aliquam nam mauris dolor lorem imperdiet.</simpara>
+<section id="_the_part1_chapter_3">
+<title>The part1 chapter</title>
+<note><simpara>Nec mauris sed aliquam nam mauris dolor lorem imperdiet.</simpara></note>
+</section>
+</section>
+</section>
+<section id="_the_part2_chapter">
+<title>The part2 chapter</title>
+<simpara>An exmaple of iamge load. An exmaple of iamge load, see <xref linkend="note_img"/>.</simpara>
+<simpara>Nec mauris sed aliquam nam mauris dolor lorem imperdiet.</simpara>
+</section>
+</chapter>
+<chapter id="_the_second_chapter">
+<title>The second chapter</title>
+<simpara>Ut suspendisse nulla. Auctor felis facilisis. Rutrum vivamus nec
+lectus porttitor dui dapibus eu ridiculus tempor sodales et. Sit a
+cras. Id tellus cubilia erat.</simpara>
+<simpara>Quisque nullam et. Blandit dui tempor. Posuere in elit diam egestas
+sem vivamus vel ac.</simpara>
+</chapter>
+</book>

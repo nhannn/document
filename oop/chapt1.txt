@@ -1,0 +1,45 @@
+
+
+== OOP principles and characters
+
+About the benefits of OOP and what OOP will help you in development.
+
+=== Advantages & Disadvantages
+
+
+
+=== Characters
+
+
+
+==== Encapsulation
+
+All entity in our solution are abstracted into objects. So we have to encapsulate all attributes(states and methods) of an object. Some attribute are visible, some are not.
+
+From this concept, we have some other definitions: access restriction, infomation hiding.
+
+==== Agrregation 
+
+==== Inheritance 
+
+sf
+
+==== Composition
+
+
+====Dynamic binding
+
+//.Example
+//[source,perl]
+//----
+//int a;
+//----
+
+=== Principles
+
+==== The part2 chapter	
+
+An exmaple of iamge load. An exmaple of iamge load.
+
+Nec mauris sed aliquam nam mauris dolor lorem imperdiet.
+
