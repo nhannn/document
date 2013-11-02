@@ -1,0 +1,11 @@
+= The Book Title
+
+// Attribute
+:numbered:
+
+
+// Add Chapter 1 in file chapt1.txt
+include::chapt1.txt[]
+
+// Add Chapter 2 in file chapt2.txt
+include::chapt2.txt[]
